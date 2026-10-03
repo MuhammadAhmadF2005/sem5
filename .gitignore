@@ -1,0 +1,18 @@
+# Sensitive student data, marks, and assessments
+*[Mm]arks*
+*[Aa]sses[se]ment*
+*[Aa]ssessment*
+*[Gg]rade*
+*[Rr]esult*
+*[Ss]tudent*
+
+# Office spreadsheet files (frequently used for marks/evaluations)
+*.xlsx
+*.xls
+*.csv
+~$*
+
+# OS / temporary files
+Thumbs.db
+.DS_Store
+*.tmp
