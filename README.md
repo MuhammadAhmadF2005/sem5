@@ -20,3 +20,5 @@ This repository contains academic coursework, lecture materials, assignments, an
 ## Repository Structure
 
 Each course directory is structured to organize lecture notes, slide decks, assignment solutions, and practical laboratory exercises for the semester.
+
+**note: viewing specific labs/assignments online may result in some issues so try cloning this repo using "git clone <https://github.com/MuhammadAhmadF2005/sem5>"**
