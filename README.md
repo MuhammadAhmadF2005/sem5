@@ -1,6 +1,6 @@
 # Semester 5 Coursework
 
-This repository contains academic coursework, lecture materials, assignments, and laboratory resources for Semester 5 (Fall 2026).
+This repository contains academic coursework, lecture materials, assignments, and laboratory resources for Semester 5 BsCS @GIKI (Fall 2026).
 
 ---
 
